@@ -1,0 +1,8 @@
+body {
+  padding-top: 200px;
+  background-image: url("http://static.vecteezy.com/system/resources/previews/000/087/501/original/magic-8-ball-vector-pack.jpg");
+}
+
+#question {
+  margin-bottom: 20px;
+}

@@ -1,0 +1,36 @@
+body {
+  padding-top: 200px;
+  background-image: url("http://orig06.deviantart.net/5708/f/2015/236/d/a/bokeh_brush_for_photoshop_by_starshinesuckerpunch-d9712vb.jpg");
+  font-family: 'Scada', sans-serif;
+  font-size: 20px;
+}
+
+h1 {
+  font-family:'Pattaya', sans-serif;
+  color: #31708f;
+  font-size: 80px;
+}
+
+#gameOver {
+ font-size: 60px;
+}
+
+#win {
+  font-size: 60px;
+}
+
+.paragraph {
+  padding-top: 20px;
+  font-size: 20px;
+}
+
+.twoError {
+  color: #B80934;
+  font-style: italic;
+  font-weight: bolder;
+}
+
+.guesses {
+  color: #31708f;
+  font-size: 30px;
+}
